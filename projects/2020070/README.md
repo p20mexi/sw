@@ -12,7 +12,7 @@ GitHub profile:  [p2020070](https://github.com/p20mexi)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 1 | Εισαγωγή | https://github.com/courses-ionio/sw/discussions/1167 | Η διαδικασία ήταν αρκετά εύκολη και κατανοητή |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
@@ -22,3 +22,13 @@ GitHub profile:  [p2020070](https://github.com/p20mexi)
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
+
+
+
+
+## Εισαγωγή
+Μέσα από το μάθημά σας θα ήθελα να πάρω κάποιες γνώσεις σχετικά με τα διάφορα λογισμικά που υπάρχουν. Ο πρώτος μου να καταφέρω να ολοκληρώσω όλα τα παραδοτέα που θα μας αναθέσετε και μέσω αυτού να βελτιωθώ και στην πλατφόρμα του github. Επίσης θα επικεντρωθώ αρκετά στο ομαδικό πνεύμα το οποίο είναι αρκετά σημαντικό για το μάθημα αυτό.
+
+
+
+
